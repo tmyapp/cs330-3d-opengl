@@ -3,7 +3,7 @@ This project was developed for CS 330: Computational Graphics and Visualization.
 
 The scene features a multi-part object constructed from primitive shapes placed on a textured surface. The project emphasizes low-polygon modeling combined with realistic lighting and shading techniques.
 
-⸻
+_____
 
 Features
 	•	Multi-primitive 3D object (cylinder, sphere, cone)
@@ -17,7 +17,7 @@ Features
 	•	Interactive camera controls
 	•	Perspective and Orthographic projection toggle
 
-⸻
+_____
 
 Controls
 Key - Function
@@ -36,7 +36,7 @@ Technologies Used
 	•	GLSL (Vertex and Fragment Shaders)
 	•	GLM (OpenGL Mathematics Library)
 
-⸻
+_____
 
 Rendering Techniques Demonstrated
 
@@ -67,7 +67,7 @@ The application allows dynamic switching between:
 	•	Perspective projection
 	•	Orthographic projection
 
-⸻
+_____
 
 Project Structure
 	•	SceneManager – Manages rendering, textures, lighting, and transformations
@@ -76,7 +76,7 @@ Project Structure
 	•	shaders/ – GLSL vertex and fragment shader files
 	•	textures/ – Image files used for texture mapping
 
-⸻
+_____
 
 Purpose
 
