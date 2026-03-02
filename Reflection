@@ -1,0 +1,25 @@
+Module 8 Journal Reflection
+
+1. How I Approach Designing Software
+
+Throughout this project, I learned to approach software design by breaking complex systems into smaller, manageable components. In developing the 3D scene, I structured the program into clearly defined classes such as Brick and Circle, each responsible for its own behavior and state. This modular approach helped me better understand object-oriented design principles and state management.
+
+My design process involved planning object behavior first, then implementing collision logic, followed by refining interactions and visual feedback. I relied heavily on incremental development and testing to ensure each component functioned correctly before adding additional complexity.
+
+These design tactics will apply directly to future projects, especially in areas such as simulation, game development, and AI-driven environments where object interaction and system architecture are critical.
+
+2. How I Approach Developing Programs
+
+While working on the 3D scene, I adopted a highly iterative development strategy. I implemented features in stages: first rendering shapes, then adding movement, then collision detection, and finally state-based behaviors such as color changes and object removal.
+
+Iteration was essential. Small adjustments to movement logic, collision boundaries, and hit detection significantly changed program behavior. Debugging visual output in real time improved my understanding of geometric math, coordinate systems, and physics simulation principles.
+
+Over time, my development approach evolved from simply “making it work” to building scalable and structured code that could easily support new features such as circle-to-circle collision detection and dynamic speed adjustments.
+
+3. How Computer Science Helps Me Reach My Goals
+
+Computational graphics and visualization strengthened my understanding of how mathematics, physics, and programming intersect. Working with coordinate systems, object transformations, and collision detection provided practical experience in real-time simulation.
+
+From an educational perspective, these skills prepare me for more advanced topics such as game engines, rendering pipelines, and graphics APIs.
+
+Professionally, these concepts apply to industries including simulation modeling, AI-driven robotics environments, game development, and visualization systems. Understanding how digital environments are constructed enhances my ability to design interactive systems and intelligent agents in the future.
